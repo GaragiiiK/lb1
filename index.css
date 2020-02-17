@@ -11,6 +11,22 @@ h2{
 	font-size:200%;
 }
 
+.p111
+{
+	color: blue;
+}
+
+.p12{
+ color:yellow;
+}
+
+.p13{
+	color: cyan;
+}
+
+body{
+	background-color:lightgrey;
+}
 
 .one {
     border-style: dotted;
