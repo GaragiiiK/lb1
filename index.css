@@ -24,6 +24,79 @@ h2{
 	color: cyan;
 }
 
+.ssilka1{
+	font-family: verdana;
+	font-size: 90%;
+	}
+
+a.ssilka2:link, a.ssilka2:visited {
+    background-color: blue;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a.ssilka2:hover, a.ssilka2:active {
+    background-color: orange;
+}
+
+a.ssilka3:link, a.ssilka3:visited {
+    background-color: grey;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a.ssilka3:hover, a.ssilka3:active {
+    background-color: black;
+	
+}
+a.ssilka4:link, a.ssilka4:visited {
+    background-color: orange;
+    color: white;
+    padding: 20px 45px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a.ssilka4:hover, a.ssilka4:active {
+    background-color: red;
+}
+
+.ssilka5{	
+	font-family: verdana;
+	font-size: 200%;
+	}
+
+.glava{
+	color: black
+	font-size: 300%
+}
+
+.list1{
+	color:  grey;
+	font-family: verdana;
+}
+
+.list2{
+	color:  blue;
+	font-family: colobri;
+	font-size: 180%;
+}
+
+.list3{
+	color:  orange;
+	font-family: verdana;
+	font-size: 210%
+}
 body{
 	background-color:lightgrey;
 }
