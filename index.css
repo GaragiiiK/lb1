@@ -129,3 +129,33 @@ body{
     border-color: blue;
 }
 
+.tabl{	
+    color: red;
+    font-family:verdana;
+    background-color:yellow;
+}
+.tabl1{	
+    color: green;
+    font-family:verdana;
+    background-color:purple;
+}
+.tabl2{	
+    color: white;
+    font-family:verdana;
+    background-color:green;
+}
+.tabl3{	
+    color: blue;
+    font-family:verdana;
+    background-color:red;
+}
+.tabl4{	
+    color: yellow;
+    font-family:verdana;
+    background-color:green;
+}
+.head{
+    background-color:black;
+    color: white;
+    text-align: center;	
+}
