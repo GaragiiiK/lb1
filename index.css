@@ -11,3 +11,31 @@ h2{
 	font-size:200%;
 }
 
+
+.one {
+    border-style: dotted;
+    border-color: red;
+    border-width: thick;
+}
+
+.two {
+    border-style: solid;
+    border-color: orange;
+    border-width: 15px;
+}
+
+.three {
+    border-style: dashed;
+    border-color: yellow;
+}
+
+.four {
+    border-style: ridge;
+    border-color: green;
+    border-width: 2px;
+}
+
+.five {
+    border-style: ridge dotted;
+    border-color: blue;
+}
